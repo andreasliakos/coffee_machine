@@ -1,15 +1,15 @@
 # coffee_machine
 This program is a simulation of a coffee vending machine in C++, which allows the user to select various drinks and pay for them.
 
-Coffee for €1.5
+1) Coffee for €1.5
 
-Coffee with milk for €1.8
+2) Coffee with milk for €1.8
 
-Hot chocolate for €2.1
+3) Hot chocolate for €2.1
 
-Hot chocolate with milk for €2.4
+4) Hot chocolate with milk for €2.4
 
-Refill (coffee, chocolate and milk)
+5) Refill (coffee, chocolate and milk)
 
 -1. Exit
 
